@@ -28,4 +28,4 @@ python generate.py --image_name image/XXX.jpg(png)
 
 ## 感谢
 
-本代码主要来源https://www.kaggle.com/code/balraj98/single-image-super-resolution-gan-srgan-pytorch和https://github.com/leftthomas/SRGAN，在此基础上做了大量注释，generate.py做了大量修改
+本代码主要来源https://www.kaggle.com/code/balraj98/single-image-super-resolution-gan-srgan-pytorch 和 https://github.com/leftthomas/SRGAN ，在此基础上做了大量注释，generate.py做了大量修改
