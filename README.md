@@ -24,7 +24,7 @@ python generate.py --image_name image/XXX.jpg(png)
 
 从左往右依次是LR、超分、HR图像
 
-![](.\image\000001_com.png)
+![](image/000001_com.png)
 
 ## 感谢
 
